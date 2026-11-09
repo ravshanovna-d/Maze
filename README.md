@@ -37,7 +37,7 @@ An interactive Jupyter notebook that explores the same problem, getting from **S
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/dlsoul13/Maze.git
+git clone https://github.com/ravshanovna-d/Maze.git
 cd Maze
 pip install numpy matplotlib networkx ipywidgets jupyter
 jupyter notebook Maze.ipynb
